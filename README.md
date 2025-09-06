@@ -1,0 +1,2 @@
+# MagicPage
+Story Website
